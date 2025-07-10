@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Amrutha 👋
 
 # 💫 About Me:
 I'm an aspiring software developer with a strong interest in web development. I love building real-world projects, solving problems with code, and continuously learning new technologies.<br><br>
